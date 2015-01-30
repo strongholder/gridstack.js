@@ -1,0 +1,22 @@
+{
+  "name": "gridstack.js",
+  "version": "0.2.2",
+  "homepage": "https://github.com/strongholder/gridstack.js",
+  "authors": [
+    "Daniel Popov <daniel@audiolize.net>"
+  ],
+  "description": "gridstack bower",
+  "main": "dist/gridstack.min.js",
+  "keywords": [
+    "gridstack",
+    "bower"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
